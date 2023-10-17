@@ -1,0 +1,10 @@
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\bin\Debug\insta json to excel.exe.config
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\bin\Debug\insta json to excel.exe
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\bin\Debug\insta json to excel.pdb
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta json to excel.csproj.AssemblyReference.cache
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta_json_to_excel.Form1.resources
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta_json_to_excel.Properties.Resources.resources
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta json to excel.csproj.GenerateResource.cache
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta json to excel.csproj.CoreCompileInputs.cache
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta json to excel.exe
+C:\Users\charb\source\repos\insta json to excel\insta json to excel\obj\Debug\insta json to excel.pdb
