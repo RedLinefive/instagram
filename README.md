@@ -1,6 +1,6 @@
 # instagram
 unzipe archive instagram
-select any json in in folder followers_and_following
+select any json file in folder followers_and_following
 
 followers_1.json
 following.json
